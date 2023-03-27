@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.logo img{
+    width:80px;
+    height:80px;
+    display:flex;
+    justify-content:left;
+    align-items:left;
+    padding-top: 15px ;
+    padding-left: 30px;
+}
+.navbar{
+    display:flex;
+    font-size: 24px;
+}
+#para{
+    padding-top: 10px;
+    font-family: Britannic Bold;
+    color: white;
+    padding-left: 8px;
+}
+#para1{
+    padding-top: 10px;
+    font-size: 18px;
+
+}
+#head{
+    padding-top: 20px;
+}
+.home a{
+    color: white;
+    padding-left: 10px;
+    text-decoration: none;
+    position: relative;
+    text-align:center;
+    justify-content: center;
+    padding-top: 5px;
+    padding-right: 1000px;
+    position: relative;
+    Bottom: 129px;
+    font-size: 24px;
+    left: 440px;
+}
+.home a:hover{
+    transition: 0.1s;
+    color: black;
+    text-decoration: underline;
+}
+.about a{
+    color: white;
+    padding-left: 20px;
+    text-decoration: none;
+    padding-right: 800px;
+    padding-top: 1px;
+    padding-right: 800px;
+    bottom: 155px;
+    position: relative;
+    font-size: 24px;
+    left: 490px;
+
+}
+.about a:hover{
+    transition: 0.1s;
+    color: black;
+    text-decoration: underline;
+}
+.login a{
+    color: white;
+    padding-left: 20px;
+    text-decoration: none;
+    padding-right: 600px;
+    padding-top: 10px;
+    position: relative;
+    bottom: 183px;
+    font-size: 24px;
+    left: 500px;
+}
+.login a:hover{
+    transition: 0.1s;
+    color: black;
+    text-decoration: underline;
+}
+.nav-list{
+    width:100%;
+    height:150px;
+    background-color:rgb(33, 151, 145);
+    text-align: right;
+}
+.rightNav{
+    list-style: none;
+}
+.rightNav button{
+    text-decoration: none;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font-size: 16px;
+}
+  .box-wrapper {
+
+    height: 95px;
+
+    width: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    text-align: center;
+
+}
+.dis{
+    float:left;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.heart img{
+    width: 300px;
+    padding-left: 100px;
+    padding-top: 50px;
+    height: 250px;
+
+}
+.skin img{
+    width: 300px;
+    padding: 160px;
+    height: 250px;
+    padding-bottom: 10px;
+    padding-top: 50px;
+    padding-left: 30px;
+}
+.mens img{
+    width: 290px;
+    height: 280px;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 1px;
+}
+.bone img{
+    width: 350px;
+    padding-top: 60px;
+    height: 250px;
+    padding-left: 5px;
+    padding-right: 50px;
+}
+button{
+    width:10%;
+    height:20px;
+    font-size: 12px;
+}
+#head{
+    padding-top: 10px;
+}
+#head1{
+    padding-top: 170px;
+}
