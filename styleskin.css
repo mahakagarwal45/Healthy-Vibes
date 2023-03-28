@@ -77,154 +77,125 @@
 }
 .para1{
     font-size: 20px;
-    text-decoration: underline;
 
 }
 .div{
-    width: 50%;
+    width: 100%;
     height: 30px;
+}
+.skin{
+    padding-left: 250px;
+    width: 30px;
 }
 .head3{
     font-size: 20px;
-    padding-top: 40px;
+    padding: 40px;
     background-color: darkseagreen;
     text-align: center;
     padding:2px;
     font-size: 30px;
 }
-#para2{
-    font-size: 20px;
-    padding-bottom: 20px;
-    padding: 10px;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-......................................
 .para1{
-    display: flex;
-    font-size: 8px;
-   padding-top: 10px;
-   padding-right: 500px;
+    text-decoration: underline;
 }
+#para2{
+    padding-top: 20px;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

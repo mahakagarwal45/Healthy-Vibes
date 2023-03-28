@@ -81,8 +81,12 @@
 
 }
 .div{
-    width: 50%;
+    width: 100%;
     height: 30px;
+}
+.mens{
+    padding-left: 350px;
+    width: 30px;
 }
 .head3{
     font-size: 20px;
@@ -94,8 +98,8 @@
 }
 #para2{
     font-size: 20px;
-    padding-bottom: 20px;
-    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
 }
 
 
@@ -193,38 +197,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-......................................
-.para1{
-    display: flex;
-    font-size: 8px;
-   padding-top: 10px;
-   padding-right: 500px;
-}
